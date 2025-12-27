@@ -16,7 +16,7 @@
 
 
   <p align="center">
-my ponies got uploaded on pinterest cuh :sob:
+
 <p align="center">
 <a href="https://tamagotchi.atabook.org/">sign my atabook!</a>
 </p>
