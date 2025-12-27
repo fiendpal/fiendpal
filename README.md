@@ -18,11 +18,12 @@
   <p align="center">
 
 <p align="center">
-<a href="https://tamagotchi.atabook.org/">sign my atabook!</a>
+<a href="https://tamagotchi.atabook.org/"> ata!</a>  <img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" /> <a href="https://rentry.co/demifiend"> rentry!</a>
 </p>
-<br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f97889f2-f08b-4c6a-acbb-6a9028b73f4b" />
-    <img src="https://64.media.tumblr.com/eb5584bfd88bda5e80da7a7ec814eca1/8657239874b12d70-e3/s250x400/28f25bf1ccbe90b0d184d611a5c1dc91a7688a85.gif" />
-     <img src="https://64.media.tumblr.com/5d37cd9ef1a3d0136ba9fbabb8e7179c/b3d36f0d2c457507-aa/s250x400/d542f7f575b23af96beaa40bd7d6c55d5a9f571e.gif" />
+
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/019f2963-63bc-4839-b677-ecf4a8ff566c"  />
+
 </p>
