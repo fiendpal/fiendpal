@@ -18,7 +18,7 @@
   <p align="center">
 
 <p align="center">
-<a href="https://tamagotchi.atabook.org/"> ATABOOK!</a>  <img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" /> <a href="https://rentry.co/demifiend"> RENTRY!</a><img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" /> <a href="https://artfight.net/~Magatsuhi"> ARTFIGHT!</a>
+<a href="https://tamagotchi.atabook.org/"> ATABOOK!</a>  <img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" /> <a href="https://rentry.co/demifiend"> RENTRY!</a><img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" /> <a href="https://artfight.net/~smtiv"> ARTFIGHT!</a>
 <p align="center">
 
 </p>
