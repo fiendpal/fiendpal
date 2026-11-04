@@ -18,11 +18,11 @@
   <p align="center">
 
 <p align="center">
-<a href="https://tamagotchi.atabook.org/"> ATABOOK!</a>  <img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" /> <a href="https://rentry.co/demifiend"> RENTRY!</a><img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" /> <a href="https://smtiv.straw.page"> STRAWPAGE!</a>
+<a href="https://yokai.atabook.org/"> ATABOOK!</a>  <img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" /> <a href="https://rentry.co/demifiend"> RENTRY!</a><img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" /> <a href="https://smtiv.straw.page"> STRAWPAGE!</a>
 <p align="center">
 
 <p align="center"> 
-  hi please give me rentry alternatives okay? send them in my atabook 
+ hi sign my atabook and draw on my strawpage
 
 
 </p>
