@@ -1,16 +1,19 @@
 <p align="center">
-  <img width="35" height="35" alt="ezgif-2e909b305c5184d4" src="https://github.com/user-attachments/assets/954d66b1-fa46-48e3-aea3-c734dcf95a7f" />
+  <img src="https://github.com/user-attachments/assets/0c9b1d86-0070-45ce-b727-af2c31a29d07" />
 
 
-<img src="https://komarev.com/ghpvc/?username=fiendpal&label=press+turns!&style=plastic&color=59379C"> 
 
-<img width="35" height="35" alt="ezgif-2e909b305c5184d4" src="https://github.com/user-attachments/assets/058cbc95-43c8-4d95-a6be-326d490ac28a" />
+
+<img src="https://komarev.com/ghpvc/?username=fiendpal&label=yokai+scans!&style=plastic&color=blue"> 
+
+<img src="https://github.com/user-attachments/assets/0c9b1d86-0070-45ce-b727-af2c31a29d07" />
 
 </p>
 
 </p>
 <p align="center">
- <img src="https://github.com/user-attachments/assets/c39a2744-8e09-46ca-b760-3f67ac7b9a9e" />
+ <img src="https://github.com/user-attachments/assets/be6c0181-10c5-4346-a04b-18d9aa2e4a14" />
+
 
 </p>
 
