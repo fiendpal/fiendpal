@@ -5,9 +5,6 @@
   <img src="https://github.com/user-attachments/assets/56932d40-88cf-4974-ba2e-92546ae16ffd" />
   <br><br>
   
-  <img src="https://github.com/user-attachments/assets/be6c0181-10c5-4346-a04b-18d9aa2e4a14" />
-  <br><br>
-  
   <a href="https://yokai.atabook.org/">ATABOOK!</a>
   <img src="https://github.com/user-attachments/assets/33c78647-4c82-47bb-b3f8-86e13faf6c1a" />
   <a href="https://rentry.co/demifiend">RENTRY!</a>
